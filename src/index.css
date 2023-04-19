@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.carousel-item img{
+  opacity: 3;
+}
+
+.navbar-brand{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+}
+.carousel-text{
+  color:rgb(196, 228, 248);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+}
+.carousel-text1{
+  color:rgb(31, 31, 100);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mb-3 form-label{
+padding:2px 5px;
+border:2px solid black ;
+width:40%;
+}
+.bbgg{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: oblique;
+}
+#signup{
+  border:2px solid blue;
+  padding:5px 7px ;
+  /* margin:12px 12px; */
+  text-align: center;
+    margin: auto;
+    position: 50%;
+  border-radius: 8px;
+  box-sizing: border-box;
+  background-color: rgb(169, 185, 198);
+  width:50%;
+ 
+}
+#rzp_payment_form{
+  text-align: center;
+    margin: auto;
+    position: 50%;
+   
+    padding:52px 52px 52px 52px;
+    
+    
+}
+
+.cont1{
+  background-color: rgb(199, 229, 223);
+}
+.donatebt{
+  text-align: center;
+  margin:auto;
+  position: 50%;
+  
+}
+.btt{
+   margin: 10px;
+   width:80%;
+   
+}
+#signup h3{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.containerA{
+  background-color: rgb(199, 229, 223);
+ 
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
